@@ -926,7 +926,6 @@ contribute = Mitarbeiten
 listen = Hören
 write = Schreiben
 review = Prüfen
-skip = Überspringen
 shortcuts = Tastenkürzel
 clips-with-count-pluralized =
     { $count ->
@@ -957,7 +956,6 @@ share-clip = Ihre Aufzeichnung teilen
 share-common-voice = Common Voice teilen
 review-instruction = Falls nötig, prüfen & neu aufnehmen
 record-submit-tooltip = Senden { $actionType }, wenn Sie fertig sind
-clips-uploaded = Aufzeichnungen hochgeladen
 record-abort-title = Sie sind noch nicht fertig.
 record-abort-text = Wenn Sie jetzt abbrechen, geht Ihr Fortschritt verloren
 record-abort-submit = Aufzeichnungen übertragen
