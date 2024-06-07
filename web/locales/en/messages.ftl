@@ -951,7 +951,6 @@ contribute = Contribute
 listen = Listen
 write = Write
 review = Review
-skip = Skip
 shortcuts = Shortcuts
 clips-with-count-pluralized = { $count ->
                     [one] <bold>{ $count }</bold> Clip
@@ -984,7 +983,6 @@ share-clip = Share your clip
 share-common-voice = Share Common Voice
 review-instruction = Review & re-record clips if needed
 record-submit-tooltip = { $actionType } submit when ready
-clips-uploaded = Clips Uploaded
 record-abort-title = Finish recording first?
 record-abort-text = Leaving now means you'll lose your progress
 record-abort-submit = Submit clips
