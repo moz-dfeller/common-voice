@@ -1,2 +1,2 @@
-clips-uploaded = Clips Uploaded New
-skip = Skip New
+important-clips-uploaded = Clips Uploaded New
+important-skip = Skip New

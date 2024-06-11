@@ -1,2 +1,2 @@
-clips-uploaded = Aufzeichnungen hochgeladen
-skip = Überspringen
+important-clips-uploaded = Aufzeichnungen hochgeladen
+important-skip = Überspringen
